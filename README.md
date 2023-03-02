@@ -10,4 +10,4 @@ mysql
 
 ## Link
 repository: https://github.com/houchenghao/E-Commerce-Back-End
-video:
+video: https://watch.screencastify.com/v/y6tcDJsdq2E3TeqSHiTM
